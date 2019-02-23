@@ -1,1 +1,1 @@
-worker: python LOCO.py
+worker: python loco.py

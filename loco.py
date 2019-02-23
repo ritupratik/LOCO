@@ -23,6 +23,4 @@ async def on_member_join(member):
 async def on_ready():
     await client.change_presence(game=Game(name='LOCO,HQ,BB//TRIVIA ROCK'))
     print('Ready, Freddy') 
-
-
 client.run('NTQ4NzkyMjczNDYzNDEwNjk5.D1KpCg.G1cuZ1HJnae0cIVDwhqQa9ag-WE')

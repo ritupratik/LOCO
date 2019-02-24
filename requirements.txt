@@ -1,1 +1,8 @@
-discord.py
+aiohttp
+bs4
+nltk
+unidecode
+aiodns
+cchardet
+colorama
+lomond
